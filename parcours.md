@@ -17,10 +17,7 @@ Elève ingénieur en I1
 `2024-2025` **Coupe de france de robotique**
 
 _Réalisé en équipe de 5 étudiants_
-* Coupe de france de robotique,
-decoupe laser
-impression 3d
-modélisation 3d (CAO)
+* Coupe de france de robotique, Découpe laser impression 3D Modélisation 3D (CAO)
 
 `2024 - 20XX`
 Unimakers
@@ -40,6 +37,6 @@ Informatique
 
 ## Centres d’intérêt
 
-Loisirs 1
-* Description 
-Jeux Video
+Les Jeux Video
+Le Sport
+Les Mathématiques
