@@ -18,7 +18,7 @@ Elève ingénieur en I1
 56 membres
 * Charger de mission coupe de france de robotique 
 
-`2024-2025` **Coupe de france de robotique**
+`2024 - 2025` **Coupe de france de robotique**
 
 _Réalisé en équipe de 5 étudiants_
 * Coupe de france de robotique, Découpe laser impression 3D Modélisation 3D (CAO)
@@ -38,6 +38,7 @@ _Réalisé en équipe de 5 étudiants_
 * Impression 3D FDM et SLA
 _sous Bambu, artillery, creality et anycubique_
 * Découpe laser
+* Gestion de serveur sous linux (debian 12)
 
 ## Centres d’intérêt
 
