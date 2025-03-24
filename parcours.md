@@ -2,7 +2,7 @@
 layout: page
 title: Mon parcours
 menubar: menu_bar
-download_cv: assets/docs/Template_CV.pdf
+download_cv: assets/docs/Template_CV
 ---
 
 ## Formation 
@@ -14,7 +14,7 @@ Elève ingénieur en I1
 
 ## Expériences
 
-`20XX` **Projet d’étude – préciser le thème du projet**
+`2024-2025` **Coupe de france de robotique**
 
 _Réalisé en équipe de 5 étudiants_
 * Coupe de france de robotique,
@@ -24,7 +24,7 @@ modélisation 3d (CAO)
 
 `2024 - 20XX`
 Unimakers
-51 membres
+56 membres
 * Charger de mission coupe de france de robotique 
 
 ## Compétences

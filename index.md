@@ -2,7 +2,7 @@
 layout: promo-page
 title: Qui suis-je?
 menubar: menu_bar
-hero_image: assets/imgs/image.png
+hero_image: assets/imgs/pdp.png
 hero_image_alt: Ma photo
 hero_image_ratio: is-1by1
 ---
