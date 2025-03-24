@@ -8,7 +8,8 @@ hero_image_ratio: is-1by1
 ---
 
 # Loïc PORTOIS
-Elève ingénieur en I1]
+Elève ingénieur en I1
+
 
 Disponible Juillet Aout 2025
 

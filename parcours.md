@@ -16,15 +16,16 @@ Elève ingénieur en I1
 
 `20XX` **Projet d’étude – préciser le thème du projet**
 
-_Réalisé en équipe de XX étudiants_
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
-* Description des missions (outils utilisés, réalisations, chiffres clés)
+_Réalisé en équipe de 5 étudiants_
+* Coupe de france de robotique,
+decoupe laser
+impression 3d
+modélisation 3d (CAO)
 
 `2024 - 20XX`
 Unimakers
 51 membres
-* Charger de mission
+* Charger de mission coupe de france de robotique 
 
 ## Compétences
 
