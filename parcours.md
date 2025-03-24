@@ -14,17 +14,17 @@ Elève ingénieur en I1
 
 ## Expériences
 
-`2025 - 20XX` **Unimakers**
-56 membres
-* Charger de mission coupe de france de robotique 
-
-`2024 - 2025` **Coupe de france de robotique**
-
-_Réalisé en équipe de 5 étudiants_
-* Coupe de france de robotique, Découpe laser impression 3D Modélisation 3D (CAO)
 
 `juillet 2025` **stage**
 * Stage éxécutif dans l'entreprise chantelle
+
+`2025 - 20XX` **Unimakers**
+* 56 membres
+* Charger de mission coupe de france de robotique 
+
+`2024 - 2025` **Coupe de france de robotique**
+*_Réalisé en équipe de 5 étudiants_
+* Coupe de france de robotique, Découpe laser impression 3D Modélisation 3D (CAO)
 
 ## Compétences
 
@@ -32,13 +32,18 @@ _Réalisé en équipe de 5 étudiants_
 * LV1 Anglais
 * LV2 Japonais
 
-**Informatique / Méchanique**
+**Informatique**
 * Onshape Blender CAO
 * Orca BambuStudio FAO
+
+**Méchanique**
 * Impression 3D FDM et SLA
 _sous Bambu, artillery, creality et anycubique_
 * Découpe laser
 * Gestion de serveur sous linux (debian 12)
+
+**Eléctonique**
+* Kicad
 
 ## Centres d’intérêt
 
