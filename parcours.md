@@ -19,6 +19,9 @@ Elève ingénieur en I1
 _Réalisé en équipe de 5 étudiants_
 * Coupe de france de robotique, Découpe laser impression 3D Modélisation 3D (CAO)
 
+`juillet 2025` **stage**
+* Stage éxécutif dans l'entreprise chantelle
+
 `2024 - 20XX`
 Unimakers
 56 membres
