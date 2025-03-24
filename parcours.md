@@ -28,11 +28,11 @@ _Réalisé en équipe de 5 étudiants_
 
 ## Compétences
 
-Langues
+**Langues**
 * LV1 Anglais
 * LV2 Japonais
 
-Informatique / Méchanique
+**Informatique / Méchanique**
 * Onshape Blender CAO
 * Orca BambuStudio FAO
 * Impression 3D FDM et SLA
