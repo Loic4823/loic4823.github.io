@@ -37,6 +37,6 @@ Informatique
 
 ## Centres d’intérêt
 
-Les Jeux Video
-Le Sport
-Les Mathématiques
+* Les Jeux Video
+* Le Sport
+* Les Mathématiques
