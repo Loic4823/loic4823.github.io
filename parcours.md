@@ -14,6 +14,10 @@ Elève ingénieur en I1
 
 ## Expériences
 
+`2025 - 20XX` **Unimakers**
+56 membres
+* Charger de mission coupe de france de robotique 
+
 `2024-2025` **Coupe de france de robotique**
 
 _Réalisé en équipe de 5 étudiants_
@@ -22,21 +26,18 @@ _Réalisé en équipe de 5 étudiants_
 `juillet 2025` **stage**
 * Stage éxécutif dans l'entreprise chantelle
 
-`2024 - 20XX`
-Unimakers
-56 membres
-* Charger de mission coupe de france de robotique 
-
 ## Compétences
 
 Langues
 * LV1 Anglais
 * LV2 Japonais
 
-Informatique
+Informatique / Méchanique
 * Onshape Blender CAO
 * Orca BambuStudio FAO
-
+* Impression 3D FDM et SLA
+_sous Bambu, artillery, creality et anycubique_
+* Découpe laser
 
 ## Centres d’intérêt
 
